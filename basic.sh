@@ -9,7 +9,7 @@ echo -e "\e[5m
            |__|
             vv\e[0m"
   echo -e "\e[1;95m Code By H-768\e[0m"
-  echo -e "\em[3;31m basic pkgs install \e[0m"
+  echo -e "\e[3;31m basic pkgs install \e[0m"
   sleep
   echo -e "\e[5;32m install pkgs plz wait\e[0m"
   pkg install python -y
